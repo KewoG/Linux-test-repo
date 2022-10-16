@@ -1,5 +1,4 @@
 #include <stdio.h>
 
-int hello(){
-printf("hello!!");
-}
+void hello();
+void hi();
